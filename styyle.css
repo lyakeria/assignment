@@ -1,0 +1,18 @@
+html,body{ margin:1;
+ padding:1; background:#D8BFD8;
+ color:#333; font-family:'Georgia', serif;
+}
+a{ text-decoration:none;
+ color:#800080;}
+h1 {
+  font-size: 2em;}
+h2 {
+  font-size: 2em;}
+h3 {
+  font-size: 2em;}
+p {
+  font-size: 1.5em;}
+ul li{
+ font-size: 1.5em;}
+img {
+  border-radius: 8px;}
